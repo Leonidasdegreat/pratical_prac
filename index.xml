@@ -1,0 +1,17 @@
+<books>
+    <book title="to kill a mockingbird"> 
+        <author>Harper lee</author>
+        <year>1960</year>
+        <genre>fiction</genre>  
+    </book>
+    <book title="1984"> 
+        <author>George orwell</author>
+        <year>1949</year>
+        <genre>Dystopian</genre>
+    </book>
+    <book title="The great Gatsby"> 
+        <author>F. scott Fitzgerald</author>
+        <year>1925</year>
+        <genre>Classic</genre>
+    </book>
+</books>
